@@ -1,2 +1,2 @@
-# tunepress
-goal: adapt BuddyPress to act as a local music network
+# TunePress
+*GOAL:* Adapt BuddyPress to act as a local music network
